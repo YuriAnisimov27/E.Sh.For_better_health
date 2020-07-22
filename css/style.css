@@ -1,9 +1,11 @@
-* {
-    
-}
+
 
 .card {
     margin: 10px auto;
     background-color: khaki;
     color: blue;
+}
+
+.logo-icon {
+    width: 70px;
 }
